@@ -11,6 +11,7 @@
         <module>springcloudapi</module>
         <module>springcloud-provider-dept</module>
         <module>springcloud-consumer-dept</module>
+        <module>springcloud-eurake</module>
     </modules>
 
     <packaging>pom</packaging>

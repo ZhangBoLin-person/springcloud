@@ -1,6 +1,13 @@
 
-P
-java:S1068"3Remove this unused "REST_URL_PREFIX" private field.(—§•Ú8šïäœÖ.
-]	java:S125"<This block of commented-out lines of code should be removed.(¶Ëü«ÿÿÿÿÿ8áÉåœÖ.
+p
+java:S1128"NRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Bool'.(™¦èûÿÿÿÿ8Ä¡Ö.
+[
+java:S3752%">Add a "method" parameter to this "@RequestMapping" annotation.(çÆİü8Ä¡Ö.
 `
-java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ºÎÁşÿÿÿÿ8Üú²œÖ.
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ºÎÁşÿÿÿÿ8Ä¡Ö.
+[
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Á÷è°8Ä¡Ö.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(™¦èûÿÿÿÿ8Ä¡Ö.
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8Ä¡Ö.
