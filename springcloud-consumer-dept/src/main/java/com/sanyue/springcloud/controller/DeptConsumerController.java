@@ -17,7 +17,6 @@ import java.util.List;
  */
 @RestController
 public class DeptConsumerController {
-
     @Autowired
     private RestTemplate restTemplate;
 
