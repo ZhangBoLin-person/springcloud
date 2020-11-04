@@ -31,8 +31,6 @@ z
 Jspringcloud-provider-dept/src/main/resources/mybatis/mapper/DeptMapper.xml,b\0\b0b43a08ce2a6b9adec96ad9d01802f4210c0d20
 w
 Gspringcloud-provider-dept/src/main/resources/mybatis/mybatis-config.xml,0\7\07e7b9216888c326c789dbafdefd3265c5711e73
-l
-<springcloud-provider-dept/src/main/resources/application.yml,e\b\eb69334b64018f3e1618d52ad4e3df2cc216d0be
 g
 7springcloud-provider-dept/springcloud-provider-dept.iml,f\e\fe2b8f3cc4aa7ab8373fb65fbb9011f45b485875
 l
@@ -41,3 +39,5 @@ l
 Sspringcloud-consumer-dept/src/main/java/com/sanyue/springcloud/DeptConsumer_80.java,a\4\a4c3323e8068f74bc98c5ea2e5f5f8e058592731
 J
 springcloud-eurake/pom.xml,c\6\c6c329d6656eeb17bf1d74b3cc2e8da88c8eae53
+~
+Nspringcloud-eurake/src/main/java/com/sanyue/springcloud/EurekaServer_7001.java,a\0\a05be61b22e350ce9a636df40f15c58d447a854d
