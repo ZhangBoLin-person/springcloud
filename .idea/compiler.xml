@@ -11,6 +11,8 @@
         <module name="springcloud-eurake" />
         <module name="springcloud-provider-dept" />
         <module name="springcloudapi" />
+        <module name="springcloudeureka7002" />
+        <module name="springcloudeureka7003" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

@@ -1,3 +1,7 @@
 
-~
-java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "flag".( ª˜ùÿÿÿÿ8»´‘Ù.
+|
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "flag".( ª˜ùÿÿÿÿ8»´‘Ù.
+g
+java:S1128"GRemove this unused import 'ch.qos.logback.core.net.SyslogOutputStream'.(Şïıİûÿÿÿÿ8¾¡Š’Ù.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(ªĞò_8§’Ù.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(íôĞ³øÿÿÿÿ8«‹—’Ù.

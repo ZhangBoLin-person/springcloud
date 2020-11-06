@@ -33,11 +33,17 @@ w
 Gspringcloud-provider-dept/src/main/resources/mybatis/mybatis-config.xml,0\7\07e7b9216888c326c789dbafdefd3265c5711e73
 g
 7springcloud-provider-dept/springcloud-provider-dept.iml,f\e\fe2b8f3cc4aa7ab8373fb65fbb9011f45b485875
-l
-<springcloud-consumer-dept/src/main/resources/application.yml,a\5\a5e763920519d0249e6b770420a70ad8b0afb296
 ƒ
 Sspringcloud-consumer-dept/src/main/java/com/sanyue/springcloud/DeptConsumer_80.java,a\4\a4c3323e8068f74bc98c5ea2e5f5f8e058592731
 J
 springcloud-eurake/pom.xml,c\6\c6c329d6656eeb17bf1d74b3cc2e8da88c8eae53
 ~
 Nspringcloud-eurake/src/main/java/com/sanyue/springcloud/EurekaServer_7001.java,a\0\a05be61b22e350ce9a636df40f15c58d447a854d
+O
+springcloud-eureka-7003/pom.xml,d\7\d7b21b9df32738b41775b1924696a5c6e09e273d
+O
+springcloud-eureka-7002/pom.xml,9\2\9203e7cc70a559c4ec740a252920d774b4690e45
+ƒ
+Sspringcloud-eureka-7002/src/main/java/com/sanyue/springcloud/EurekaServer_7002.java,9\7\9778c14514cc6e0ed9b7b00ca145e8dce1f11269
+ƒ
+Sspringcloud-eureka-7003/src/main/java/com/sanyue/springcloud/EurekaServer_7003.java,f\a\fa61ece62a33795a9a9a9b1ba9f807c79c3de6d1
