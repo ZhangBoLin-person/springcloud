@@ -47,3 +47,7 @@ O
 Sspringcloud-eureka-7002/src/main/java/com/sanyue/springcloud/EurekaServer_7002.java,9\7\9778c14514cc6e0ed9b7b00ca145e8dce1f11269
 ƒ
 Sspringcloud-eureka-7003/src/main/java/com/sanyue/springcloud/EurekaServer_7003.java,f\a\fa61ece62a33795a9a9a9b1ba9f807c79c3de6d1
+z
+Jspringcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRandomRule.java,9\4\9429c01dc31501a053120a5e42a7e0d429cbee27
+t
+Dspringcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRule.java,2\a\2aad90eb4da3f806642f99c7110a19e3fce91e2a

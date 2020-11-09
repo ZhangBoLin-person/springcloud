@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8506681f-bf1f-472d-ad5f-a5bb946b5613" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRandomRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5872c7a892e70321c2a9da1fb2e7c6598768c3c4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5872c7a892e70321c2a9da1fb2e7c6598768c3c4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9778c14514cc6e0ed9b7b00ca145e8dce1f11269" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9778c14514cc6e0ed9b7b00ca145e8dce1f11269" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a05be61b22e350ce9a636df40f15c58d447a854d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a05be61b22e350ce9a636df40f15c58d447a854d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4c3323e8068f74bc98c5ea2e5f5f8e058592731" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4c3323e8068f74bc98c5ea2e5f5f8e058592731" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af47ef4f3e8fe5f78f256344e32ef011ab4fb8fd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af47ef4f3e8fe5f78f256344e32ef011ab4fb8fd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b57df067c61d9a95d1894296920da1c16e335370" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b57df067c61d9a95d1894296920da1c16e335370" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/springcloud/DeptConsumer_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/springcloud/DeptConsumer_80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/springcloud/config/configBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/springcloud/config/configBean.java" afterDir="false" />
-    </list>
+    <list default="true" id="8506681f-bf1f-472d-ad5f-a5bb946b5613" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-api/target/" />
@@ -131,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TRule.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TRule.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRule.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#224#225#0" expanded="true" />
@@ -154,7 +142,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TRandomRule.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TRandomRule.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRandomRule.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -832,7 +820,7 @@
       <workItem from="1604633485205" duration="1367000" />
       <workItem from="1604733646477" duration="2981000" />
       <workItem from="1604752717006" duration="672000" />
-      <workItem from="1604885604460" duration="6958000" />
+      <workItem from="1604885604460" duration="7089000" />
     </task>
     <task id="LOCAL-00001" summary="1.spring-cloud的demo(无springboot)">
       <created>1603701535253</created>
@@ -873,7 +861,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44442000" />
+    <option name="totallyTimeSpent" value="44573000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -907,10 +895,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32918397" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22821577" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43153527" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20193638" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2841823" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20193638" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2841823" />
       <window_info anchor="right" id="Bean Validation" order="4" weight="0.3297587" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
@@ -1299,18 +1287,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRandomRule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1321,6 +1297,18 @@
             <element signature="e#553#613#0" expanded="true" />
             <element signature="e#1690#1691#0" expanded="true" />
             <element signature="e#1761#1762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
           </folding>
         </state>
       </provider>
