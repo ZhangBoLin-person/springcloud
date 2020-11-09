@@ -1,13 +1,14 @@
 
-f
-java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8Ä¡Ö.
-^
-java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ºÎÁşÿÿÿÿ8Ä¡Ö.
-Y
-java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Á÷è°8Ä¡Ö.
-U
-java:S1191"5Use classes from the Java API instead of Sun classes.(™¦èûÿÿÿÿ8Ä¡Ö.
-Y
-java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(çÆİü8Ä¡Ö.
-n
-java:S1128"NRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Bool'.(™¦èûÿÿÿÿ8Ä¡Ö.
+`
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ºÎÁşÿÿÿÿ8Ä¡Ö.
+[
+java:S3752!">Add a "method" parameter to this "@RequestMapping" annotation.(Á÷è°8Ä¡Ö.
+p
+java:S1128"NRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Bool'.(™¦èûÿÿÿÿ8Ä¡Ö.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(™¦èûÿÿÿÿ8Ä¡Ö.
+[
+java:S3752'">Add a "method" parameter to this "@RequestMapping" annotation.(çÆİü8Ä¡Ö.
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8Ä¡Ö.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÕÙü8ª·Ş•Ú.
