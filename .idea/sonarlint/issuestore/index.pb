@@ -51,3 +51,13 @@ z
 Jspringcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRandomRule.java,9\4\9429c01dc31501a053120a5e42a7e0d429cbee27
 t
 Dspringcloud-consumer-dept/src/main/java/com/sanyue/myrule/TRule.java,2\a\2aad90eb4da3f806642f99c7110a19e3fce91e2a
+W
+'springcloud-consumer-dept-feign/pom.xml,d\7\d72a32d4761ae85c56a89929fdeab21f8dbfb6e0
+›
+kspringcloud-consumer-dept-feign/src/main/java/com/sanyue/springcloud/controller/DeptConsumerController.java,b\2\b2ce2b30a3f4ac2b8302cd6f702072aded2ad0d6
+‹
+[springcloud-consumer-dept-feign/src/main/java/com/sanyue/springcloud/config/configBean.java,6\b\6bd50bb5228856a4eec3817c3a45f97a712cba80
+Ž
+^springcloud-consumer-dept-feign/src/main/java/com/sanyue/springcloud/FeignDeptConsumer_80.java,6\c\6c4deadcda2abf7955e62fa34af345e97988adb8
+‚
+Rspringcloudapi/src/main/java/com/sanyue/springcloud/service/DeptClientService.java,1\6\16a518a2543768a2777f74001ea3d314f9024814

@@ -1,0 +1,12 @@
+server:
+  port: 80
+
+#eureka
+
+eureka:
+  client:
+    register-with-eureka: false #不向eureka中注册自己，因为是消费者，不需要注册服务
+    service-url:
+      defaultZone: http://localhost:7002/eureka/,http://localhost:7003/eureka/,http://localhost:7001/eureka/
+
+
