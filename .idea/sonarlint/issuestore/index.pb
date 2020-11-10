@@ -75,3 +75,5 @@ jspringcloud-provider-dept-hystrix-8001/src/main/java/com/sanyue/springcloud/con
 ispringcloud-provider-dept-hystrix-8001/src/main/java/com/sanyue/springcloud/DeptProviderHystrix_8081.java,d\a\daf4fa64b37cdaa73d67f3b9c931c2172043d831
 ‘
 aspringcloudapi/src/main/java/com/sanyue/springcloud/service/DeptClientServiceFallbackFactory.java,9\9\9960f809cac3fc15ccb04b76979e31d3203f44de
+^
+.springcloud-consumer-hystrix-dashboard/pom.xml,4\f\4fa45f8d6441b8d6028702e314d154aff569883f

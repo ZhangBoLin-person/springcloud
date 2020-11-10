@@ -1,0 +1,33 @@
+server:
+  port: 8081
+
+#mybatis的配置
+mybatis:
+  type-aliases-package: com.sanyue.springcloud.pojo
+  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:mybatis/mapper/*.xml
+
+#spring的配置
+spring:
+  application:
+    name: springcloud-provider-dept
+  datasource:
+    driver-class-name: org.gjt.mm.mysql.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    username: root
+    password: tommy
+    url: jdbc:mysql:///db01?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT
+
+#Eureka的配置
+#服务注册到哪里
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/,http://localhost:7002/eureka/,http://localhost:7003/eureka/
+  instance:
+    instance-id: springcloud-provider-dept-hystrix-8001
+    prefer-ip-address: false
+#info配置
+info:
+  app.name: augenstern-tommy
+  company.name: youpinsanyue
