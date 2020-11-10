@@ -61,3 +61,17 @@ kspringcloud-consumer-dept-feign/src/main/java/com/sanyue/springcloud/controller
 ^springcloud-consumer-dept-feign/src/main/java/com/sanyue/springcloud/FeignDeptConsumer_80.java,6\c\6c4deadcda2abf7955e62fa34af345e97988adb8
 ‚
 Rspringcloudapi/src/main/java/com/sanyue/springcloud/service/DeptClientService.java,1\6\16a518a2543768a2777f74001ea3d314f9024814
+Œ
+\springcloud-provider-dept-hystrix-8001/src/main/java/com/sanyue/springcloud/dao/DeptDao.java,8\a\8ae94fb65e1918eea8c43973e3d82451266f9b3e
+”
+dspringcloud-provider-dept-hystrix-8001/src/main/java/com/sanyue/springcloud/service/DeptService.java,e\4\e43c0f3750e6ebab7586b4ed821633acc0246e8c
+˜
+hspringcloud-provider-dept-hystrix-8001/src/main/java/com/sanyue/springcloud/service/DeptServiceImpl.java,b\1\b1dc7963dc5f5c8ef221f14045d11210ea0873b4
+^
+.springcloud-provider-dept-hystrix-8001/pom.xml,9\2\92bd48002fcf8b9d52a9740c850495fdad5957af
+š
+jspringcloud-provider-dept-hystrix-8001/src/main/java/com/sanyue/springcloud/controller/DeptController.java,0\d\0d7466bfbd12438f800dbf021d56cdaa5e2d74e1
+™
+ispringcloud-provider-dept-hystrix-8001/src/main/java/com/sanyue/springcloud/DeptProviderHystrix_8081.java,d\a\daf4fa64b37cdaa73d67f3b9c931c2172043d831
+‘
+aspringcloudapi/src/main/java/com/sanyue/springcloud/service/DeptClientServiceFallbackFactory.java,9\9\9960f809cac3fc15ccb04b76979e31d3203f44de

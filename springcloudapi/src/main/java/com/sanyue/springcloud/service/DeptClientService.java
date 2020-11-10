@@ -16,7 +16,7 @@ import java.util.List;
  * @create 2020-11-09 15:46
  */
 @Component
-@FeignClient(value = "SPRINGCLOUD-PROVIDER-DEPT")
+@FeignClient(value = "SPRINGCLOUD-PROVIDER-DEPT",fallbackFactory = DeptClientServiceFallbackFactory.class)
 public interface DeptClientService {
 
     @GetMapping("/consumer/dept/get/{id}")
