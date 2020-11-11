@@ -1,0 +1,8 @@
+#系统级别的配置
+spring:
+  cloud:
+    config:
+      uri: http://localhost:3344 #连接服务
+      name: config-clinet #git 上的配置文件名称
+      profile: dev
+      label: master
