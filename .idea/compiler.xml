@@ -13,6 +13,7 @@
         <module name="springcloud-eurake" />
         <module name="springcloud-provider-dept" />
         <module name="springcloud-provider-dept-hystrix-8001" />
+        <module name="springcloud-zuul-9527" />
         <module name="springcloudapi" />
         <module name="springcloudeureka7002" />
         <module name="springcloudeureka7003" />

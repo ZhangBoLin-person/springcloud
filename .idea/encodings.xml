@@ -10,6 +10,7 @@
     <file url="file://$PROJECT_DIR$/springcloud-eureka-7003" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-dept" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-dept-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-zuul-9527" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudapi" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

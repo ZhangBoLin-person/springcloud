@@ -1,0 +1,13 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: springcloud-zuul-gateway #微服务注册名字
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7002/eureka/,http://localhost:7003/eureka/,http://localhost:7001/eureka/ #需要哪些eureka集群里面找
+  instance:
+    instance-id: zuul9527.com #实例化id
+    prefer-ip-address: true #真实ip隐藏
+
