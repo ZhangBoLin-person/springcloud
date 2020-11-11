@@ -1,12 +1,12 @@
 
-r
-java:S1128"WRemove this unused import 'org.springframework.cloud.client.discovery.DiscoveryClient'.(Ù“®¦8óÚçşÚ.
-p
-java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8óÚçşÚ.
-b
-java:S1128"BRemove this unused import 'com.netflix.discovery.converters.Auto'.(İ¼’²ùÿÿÿÿ8¦ìèşÚ.
 K
 java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8óÚçşÚ.
+b
+java:S1128"BRemove this unused import 'com.netflix.discovery.converters.Auto'.(İ¼’²ùÿÿÿÿ8¦ìèşÚ.
 h
 java:S1128"MRemove this unused import 'org.springframework.cloud.client.ServiceInstance'.(¡‡¨ã8óÚçşÚ.
+p
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8óÚçşÚ.
+r
+java:S1128"WRemove this unused import 'org.springframework.cloud.client.discovery.DiscoveryClient'.(Ù“®¦8óÚçşÚ.
 e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥à©Úıÿÿÿÿ8‡¬ôşÚ.

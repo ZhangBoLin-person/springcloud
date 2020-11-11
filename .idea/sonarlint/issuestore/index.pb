@@ -77,3 +77,9 @@ ispringcloud-provider-dept-hystrix-8001/src/main/java/com/sanyue/springcloud/Dep
 aspringcloudapi/src/main/java/com/sanyue/springcloud/service/DeptClientServiceFallbackFactory.java,9\9\9960f809cac3fc15ccb04b76979e31d3203f44de
 ^
 .springcloud-consumer-hystrix-dashboard/pom.xml,4\f\4fa45f8d6441b8d6028702e314d154aff569883f
+›
+kspringcloud-consumer-hystrix-dashboard/src/main/java/com/sanyue/springcloud/DeptConsumerDashboard_9001.java,c\5\c5f3d6e4f7de3180a3bb9bd9c221582ddad0903e
+M
+springcloud-zuul-9527/pom.xml,7\2\72bcb4a391b0a30132fefae9c0bebf694e06ea5a
+„
+Tspringcloud-zuul-9527/src/main/java/com/sanyue/springcloud/ZuulApplication_9527.java,7\a\7a738771c268de154675979badb0a7b38a719191

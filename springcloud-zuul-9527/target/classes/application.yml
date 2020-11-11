@@ -12,9 +12,8 @@ eureka:
     prefer-ip-address: true #真实ip隐藏
 zuul:
   routes:
-    mydept.serviceId: springcloud-provider-dept #将这个路径使用下面那个路径代替
-    mydept.path: /mydept/** #代替上面的路径
-  ignored-services: springcloud-provider-dept #禁止使用此路径访问  如果是"*" 代表隐藏的是全部的路径
-  prefix: /sanyue #公共的访问前缀
+    mydept.serviceId: springcloud-provider-dept
+    mydept.path: /mydept/**
+
 
 

@@ -4,7 +4,7 @@ server:
 #mybatis的配置
 mybatis:
   type-aliases-package: com.sanyue.springcloud.pojo
-  config-location: classpath:mybatis/mybatis-config.xml
+  config-location: classpath:mybatis/mybatis-springcloud.xml
   mapper-locations: classpath:mybatis/mapper/*.xml
 
 #spring的配置
